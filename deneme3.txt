@@ -1,1 +1,2 @@
 Bu birinci satır, birinci commit
+BU ikinci satır, ikinci commit

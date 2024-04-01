@@ -1,3 +1,4 @@
 perşembe gün 1 ilk commiti unuttum
 cuma gün 2 2. commit
 cumartesi gün 3 3. commiti unuttum
+pazar gün 4 4. commiti unuttum

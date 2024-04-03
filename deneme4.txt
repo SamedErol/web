@@ -4,3 +4,4 @@ cumartesi gün 3 3. commiti unuttum
 pazar gün 4 4. commiti unuttum
 pazartesi gün 5 5. commit
 salı gün 6 6. commit
+çarşamba 7 7. commit
